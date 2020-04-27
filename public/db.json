@@ -1,0 +1,193 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "sku": 10,
+        "title": "Fossil Watch",
+        "description": "Sphynx Tie Dye Grey",
+        "availableSizes": ["XS", "S", "M"],
+        "price": 299,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 2,
+        "sku": 14,
+        "title": "Rollex Watch",
+        "description": "Danger Knife Grey",
+        "availableSizes": ["X", "M", "L"],
+        "price": 189,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 3,
+        "sku": 17,
+        "title": "Tommy Watch",
+        "description": "White DGK Script",
+        "availableSizes": ["X", "M", "L"],
+        "price": 149,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 4,
+        "sku": 13,
+        "title": "Cat Watch",
+        "description": "Born On The Streets",
+        "availableSizes": ["XL"],
+        "price": 259,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 5,
+        "sku": 16,
+        "title": "Disel Watch",
+        "description": "Tso 3D Short Sleeve",
+        "availableSizes": ["X", "L", "XL"],
+        "price": 119,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 6,
+        "sku": 18,
+        "title": "Sprit Watch",
+        "description": "Man Tie Dye Cinza Grey",
+        "availableSizes": ["XL", "XXL"],
+        "price": 499,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 7,
+        "sku": 20,
+        "title": "Versace Watch",
+        "description": "1977 Infantil",
+        "availableSizes": ["S"],
+        "style": "Preto com listras brancas",
+        "price": 229,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 8,
+        "sku": 10,
+        "title": "Fossil Watch",
+        "description": "",
+        "availableSizes": ["XS", "S", "M"],
+        "style": "Azul escuro",
+        "price": 189,
+        "isFreeShipping": false
+      },
+      {
+        "id": 9,
+        "sku": 9,
+        "title": "Boss Watch",
+        "description": "",
+        "availableSizes": ["L", "XL"],
+        "price": 139,
+        "isFreeShipping": true
+      },
+      {
+        "id": 10,
+        "sku": 10,
+        "title": "Fossil Watch",
+        "description": "",
+        "availableSizes": ["XS", "S", "M"],
+        "price": 99,
+        "isFreeShipping": true
+      },
+      {
+        "id": 11,
+        "sku": 9,
+        "title": "Boss Watch",
+        "description": "",
+        "availableSizes": ["L", "XL"],
+        "price": 329,
+        "isFreeShipping": true
+      },
+      {
+        "id": 12,
+        "sku": 16,
+        "title": "Disel Watch",
+        "description": "",
+        "availableSizes": ["M", "S"],
+        "price": 179,
+        "isFreeShipping": true
+      },
+      {
+        "id": 13,
+        "sku": 13,
+        "title": "Cat Watch",
+        "description": "",
+        "availableSizes": ["L", "XXL"],
+        "price": 109,
+        "isFreeShipping": false
+      },
+      {
+        "id": 14,
+        "sku": 14,
+        "title": "Rollex Watch",
+        "description": "",
+        "availableSizes": ["S", "XS"],
+        "price": 219,
+        "isFreeShipping": false
+      },
+      {
+        "id": 15,
+        "sku": 10,
+        "title": "Fossil Watch",
+        "description": "",
+        "availableSizes": ["XS", "S", "M"],
+        "price": 339,
+        "isFreeShipping": false
+      },
+      {
+        "id": 16,
+        "sku": 16,
+        "title": "Disel Watch",
+        "description": "",
+        "availableSizes": ["M", "XXL"],
+        "price": 259,
+        "isFreeShipping": true
+      },
+      {
+        "id": 17,
+        "sku": 17,
+        "title": "Tommy Watch",
+        "description": "",
+        "availableSizes": ["XS", "XL"],
+        "price": 119,
+        "isFreeShipping": false
+      },
+      {
+        "id": 18,
+        "sku": 18,
+        "title": "Sprit Watch",
+        "description": "",
+        "availableSizes": ["XXL", "XL"],
+        "price": 139,
+        "isFreeShipping": true
+      },
+      {
+        "id": 19,
+        "sku": 17,
+        "title": "Tommy Watch",
+        "description": "",
+        "availableSizes": ["L", "XL"],
+        "price": 199,
+        "isFreeShipping": true
+      },
+      {
+        "id": 20,
+        "sku": 20,
+        "title": "Versace Watch",
+        "description": "",
+        "availableSizes": ["L", "XL"],
+        "price": 379,
+        "isFreeShipping": true
+      }
+    ]
+  }

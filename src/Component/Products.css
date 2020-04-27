@@ -1,0 +1,12 @@
+.img{
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.849);
+}
+.img a img{
+    height: 400px;
+    widows: 100%;
+}
+
+.price{
+    color: red;
+}
